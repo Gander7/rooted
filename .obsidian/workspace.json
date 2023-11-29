@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "4297bc83caabef14",
+    "type": "split",
+    "children": [
+      {
+        "id": "b750b55172aee763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fe324d935dcbd85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f32f64ef5d8322f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbdaecabe138de6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0faf2cb802dab41e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cef7b547145534d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7893655826e14e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f925afbd1870ed41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9413fa325e15121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/Duck Duck Goose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96e21c07f9808736",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdbeca306d45499b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b64e8d35742ff5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b6c9c1945471642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80b433ccd8639caf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b795e708a5eb9c81",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf65c871755f5af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b76ee0c3a7a01a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-11-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1209aeb21aab2b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-11-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0a8ad159915afe8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a95dfeb223246f7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-11-29.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6fe324d935dcbd85",
+  "lastOpenFiles": [
+    "games/Clusters.md",
+    "2023-11-29.md",
+    "games/Busted.md",
+    "2023-11-15.md",
+    "games/Duck Duck Goose.md",
+    "Duck, Duck, Dodge.md",
+    "games/Drip, Drip, Drop.md",
+    "games/Electric Fence.md",
+    "games/Traffic Jam.md",
+    "games/This is a Fork.md",
+    "games/Steal the Bacon.md",
+    "games/Positive Reinforcement.md",
+    "games/Poison Can.md",
+    "games/Four Corners.md",
+    "games/Foot to Ear.md",
+    "games/Electricity.md",
+    "games/Ankle Balloon Pop.md",
+    "games/Build Your Own Snowman.md",
+    "2023-11-21.md",
+    "Rooted.md",
+    "games/Dodgeball.md",
+    "games/Car Stuffing.md",
+    "games/Blind Bacon.md",
+    "games/Balloon Defense.md",
+    "games/Ask The Sage.md"
+  ]
+}

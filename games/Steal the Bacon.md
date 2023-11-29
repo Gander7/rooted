@@ -1,0 +1,3 @@
+Requires an item to grab like a ball or basketball.
+
+Two teams with equal numbers. Number each person on each team with the same numbers that the other team has. Call out a number for that member of each team to try and pick up an item equally distant from each team. If a person gets back to their “safe” line without getting tagged by their opponent give that team 2 . If a person tags their opponent before they reach safety give their team 1 pt. Mix up the numbers you call out – first number is for the team on the right the second number is for the team on the left.

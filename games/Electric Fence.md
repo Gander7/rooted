@@ -1,0 +1,7 @@
+Requires two poles and a long piece of rope/string.
+
+The rope is tied between the two poles, about four feet off the floor. You can divide into teams, or, I recommend that you do this as a group (great activity to make a group work together as a team). The object of the games is for the entire team to get over 23 the "electric fence" (the rope) without getting "electrocuted" (touching the rope). Each team member goes one at a time, with or without help from his or her teammates.
+
+What makes this game interesting is that even though one player goes over the rope at a time, the other team members can help any way they want. Once a person is over the fence, however, he or she must stay over the fence and not come back around to help anyone. So the last person each time must somehow get over the fence without help from the other side. This game requires lots of teamwork and cooperation.
+
+If you do this with multiple teams, competing with each other, have them each send one member over at a time. You can start with a low rope and make the rope higher and higher each turn. Teams can be eliminated entirely if one person touches the fence, or you can eliminate individual members only as the rope gets higher and higher.

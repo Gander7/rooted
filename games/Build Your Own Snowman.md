@@ -1,0 +1,3 @@
+Requires a bag full of assorted snowman accessories for each tea(such as hat, scarf, mittens, a carrot, safety goggles, can of shaving cream, and set of clothes/bag to protect clothes)
+
+Break the group into teams or pairs. Each team has X amount of time to use the shaving cream to cover their snowman and put on all of the accessories. The team to make the nicest looking snowman wins. The snowman is a team member.

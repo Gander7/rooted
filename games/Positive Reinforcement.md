@@ -1,0 +1,2 @@
+
+Send one youth out of the room. Think of two or three weird, funny, or mundane things for them to do, like stand on a chair and bow. Let them in and cheer for them when they move in a direction or action that would complete the predetermined actions.
