@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nights/2023-11-15.md",
+                "file": "Spring 2024 Brainstorm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nights/2023-11-15.md",
+                "file": "Spring 2024 Brainstorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nights/2023-11-15.md",
+                "file": "Spring 2024 Brainstorm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nights/2023-11-15.md"
+                "file": "Spring 2024 Brainstorm.md"
               }
             }
           },
@@ -155,14 +155,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36b64e8d35742ff5",
+  "active": "72e831945a8a7d04",
   "lastOpenFiles": [
+    "nights/2023-11-29.md",
     "Spring 2024 Brainstorm.md",
+    "nights/2023-11-15.md",
     "nights",
     "games/Duck Duck Goose.md",
-    "nights/2023-11-29.md",
     "nights/2023-11-21.md",
-    "nights/2023-11-15.md",
     "games/Clusters.md",
     "games/Busted.md",
     "Duck, Duck, Dodge.md",

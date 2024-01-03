@@ -1,3 +1,4 @@
+## Schedule
 | Date | Talk | Event | Other |
 | ---- | ---- | ---- | ---- |
 | 10 Jan | Mike | Spaghetti Supper |  |
@@ -24,3 +25,15 @@
 | 5 Jun |  |  |  |
 | 12 Jun |  |  |  |
 | 19 Jun |  | Firepit/Watergun Party? |  |
+
+## Proposed Nightly Timeline
+- 630 - Leader Meeting
+- 645 - Doors Open, Sanctuary Doors Closed
+- 730 - Prayer/Worship
+- 740 - Games
+- 805 - Snack
+- 815 - Announcements/Prizes (No Snack In Sanctuary)
+- 820 - Worship Song(s)
+- 825 - Talk
+- 840 - Worship Song(s)
+- 850 - Small Groups
