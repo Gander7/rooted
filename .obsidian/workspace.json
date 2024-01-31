@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "games/Four Corners.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "71fe495d6269d524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Spring 2024 Brainstorm.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,32 +168,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72e831945a8a7d04",
+  "active": "71fe495d6269d524",
   "lastOpenFiles": [
+    "nights/2024-01-31.md",
+    "games/Four Corners.md",
+    "games/Steal the Bacon.md",
+    "games/Prime Minister.md",
     "nights/2023-11-29.md",
+    "games/Poison Can.md",
+    "games/Traffic Jam.md",
+    "games/Ask The Sage.md",
+    "games/Balloon Defense.md",
+    "games/Blind Bacon.md",
+    "games/Build Your Own Snowman.md",
+    "games/Busted.md",
+    "games/Clusters.md",
+    "games/This is a Fork.md",
+    "games/Foot to Ear.md",
+    "games/Electric Fence.md",
+    "games/Car Stuffing.md",
     "Spring 2024 Brainstorm.md",
     "nights/2023-11-15.md",
     "nights",
     "games/Duck Duck Goose.md",
     "nights/2023-11-21.md",
-    "games/Clusters.md",
-    "games/Busted.md",
     "Duck, Duck, Dodge.md",
     "games/Drip, Drip, Drop.md",
-    "games/Electric Fence.md",
-    "games/Traffic Jam.md",
-    "games/This is a Fork.md",
-    "games/Steal the Bacon.md",
     "games/Positive Reinforcement.md",
-    "games/Poison Can.md",
-    "games/Four Corners.md",
-    "games/Foot to Ear.md",
     "games/Electricity.md",
-    "games/Ankle Balloon Pop.md",
-    "games/Build Your Own Snowman.md",
-    "Rooted.md",
-    "games/Dodgeball.md",
-    "games/Car Stuffing.md",
-    "games/Blind Bacon.md"
+    "games/Ankle Balloon Pop.md"
   ]
 }

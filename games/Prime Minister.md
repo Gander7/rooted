@@ -1,0 +1,10 @@
+- everyone stands in a circle with a dodgeball
+- one person is the prime minister in the middle
+- one person is the bodyguard
+- circle people have to work together to hit the prime minister with a dodgeball
+- bodyguard has to protect the prime minister
+- prime minister has to dodge and use the bodyguard as a shield
+- if the prime minister is hit
+	- the person that threw the dodge ball is the new bodyguard
+	- the bodyguard is the new prime minister
+	- the prime minister joins the circle
