@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7ba3ede58ef9c7f3",
+        "id": "2d9d88ba2701134b",
         "type": "tabs",
         "children": [
           {
-            "id": "72e831945a8a7d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "games/Four Corners.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "71fe495d6269d524",
+            "id": "3efca7bd4df72958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Spring 2024 Brainstorm.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +155,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71fe495d6269d524",
+  "active": "3efca7bd4df72958",
   "lastOpenFiles": [
-    "nights/2024-01-31.md",
     "games/Four Corners.md",
-    "games/Steal the Bacon.md",
+    "games/Air Raid (Continuous Game).md",
     "games/Prime Minister.md",
+    "games/King of the Bucket.md",
+    "games/Dodgeball.md",
+    "Untitled.md",
+    "Spring 2024 Brainstorm.md",
+    "nights/2024-01-17.md",
+    "nights/2024-01-31.md",
+    "vercel.json",
+    "games/Steal the Bacon.md",
     "nights/2023-11-29.md",
     "games/Poison Can.md",
     "games/Traffic Jam.md",
@@ -187,15 +181,9 @@
     "games/Foot to Ear.md",
     "games/Electric Fence.md",
     "games/Car Stuffing.md",
-    "Spring 2024 Brainstorm.md",
     "nights/2023-11-15.md",
     "nights",
     "games/Duck Duck Goose.md",
-    "nights/2023-11-21.md",
-    "Duck, Duck, Dodge.md",
-    "games/Drip, Drip, Drop.md",
-    "games/Positive Reinforcement.md",
-    "games/Electricity.md",
-    "games/Ankle Balloon Pop.md"
+    "nights/2023-11-21.md"
   ]
 }

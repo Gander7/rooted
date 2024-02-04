@@ -1,0 +1,4 @@
+- Every youth that comes in, gets put into a team, Start the teams out at 100 points.
+- Anytime during the night/event a leader that's leading calls out "Air Raid" everyone has to lay on the floor
+- The last person down loses points for their team
+- At the end of the night, week, or year, the team with the most points wins.

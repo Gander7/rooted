@@ -1,0 +1,4 @@
+- Free for all dodge-ball
+- Catch the ball, the thrower is out.
+- Sit down when out.
+- If out, get a ball and get someone out, they are out, you are back in.

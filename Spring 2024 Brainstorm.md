@@ -3,19 +3,19 @@
 | ------ | ----------- | ------------------------------ | ----------------------- |
 | 10 Jan | Mike        | Spaghetti Supper/Clothing Swap | Snack: Lacey's Mom      |
 | 17 Jan | Zach        |                                |                         |
-| 24 Jan |             | Oval, Family Welcome, Drop ISn  |                         |
+| 24 Jan |             | Oval, Family Welcome, Drop In  |                         |
 | 31 Jan | Grace (Q/A) |                                |                         |
-| 7 Feb  | Lacey/David |                                | Announce Sledding       |
-| 14 Feb | Ann         |                                | Valentine's Day         |
-| 21 Feb | Mike        | Sledding                       |                         |
+| 7 Feb  | Mike |                                | Announce Sledding       |
+| 14 Feb | Ann         | Valentine's Day                               |          |
+| 21 Feb |         | Sledding                       |                         |
 | 28 Feb | Sam         |                                |                         |
 | 6 Mar  | Zach        |                                |                         |
 | 13 Mar | Grace       |                                | March Break             |
 | 20 Mar | Lacey/David |                                |                         |
 | 27 Mar | Guest       |                                |                         |
-| 3 Apr  | Ann         | Special?                       | Inservice, Not High     |
+| 3 Apr  | Ann         | Special?                       | Inservice for Junior High     |
 | 10 Apr | Mike        |                                |                         |
-| 17 Apr | Zach        | Special?                       | Inservice, High         |
+| 17 Apr | Zach        | Special?                       | Inservice for High School         |
 | 24 Apr | Guest       |                                |                         |
 | 1 May  | Grace       |                                |                         |
 | 8 May  | Lacey/David |                                |                         |
