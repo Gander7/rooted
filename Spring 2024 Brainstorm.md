@@ -1,4 +1,8 @@
 ## Schedule
+
+Rotation: Mike, Zach, Grace, Ann
+Trying to get a guest speaker once a month.
+
 | Date   | Talk        | Event                          | Other                   |
 | ------ | ----------- | ------------------------------ | ----------------------- |
 | 10 Jan | Mike        | Spaghetti Supper/Clothing Swap | Snack: Lacey's Mom      |
@@ -12,15 +16,15 @@
 | 6 Mar  | Zach        |                                |                         |
 | 13 Mar | Grace       |                                | March Break             |
 | 20 Mar | Lacey/David |                                |                         |
-| 27 Mar | Guest       |                                |                         |
-| 3 Apr  | Ann         | Special?                       | Inservice for Junior High     |
-| 10 Apr | Mike        |                                |                         |
-| 17 Apr | Zach        | Special?                       | Inservice for High School         |
+| 27 Mar | Nathan       |                                |                         |
+| 3 Apr  | Zach         |                        | Inservice for Junior High     |
+| 10 Apr | Ann        |                                |                         |
+| 17 Apr | Grace        | Special?                       | Inservice for High School         |
 | 24 Apr | Guest       |                                |                         |
-| 1 May  | Grace       |                                |                         |
-| 8 May  | Lacey/David |                                |                         |
-| 15 May | Ann         |                                |                         |
-| 22 May | Guest       |                                |                         |
+| 1 May  | Mike       |                                |                         |
+| 8 May  | Zach |                                |                         |
+| 15 May |          |                                |                         |
+| 22 May |            |                                |                         |
 | 29 May |             |                                | ONECON (31 May - 1 Jun) |
 | 5 Jun  |             |                                |                         |
 | 12 Jun |             |                                |                         |
