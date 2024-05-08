@@ -16,16 +16,16 @@ Trying to get a guest speaker once a month.
 | 6 Mar  | Zach        |                                |                         |
 | 13 Mar | Grace       |                                | March Break             |
 | 20 Mar | Lacey/David |                                |                         |
-| 27 Mar | Nathan       |                                |                         |
-| 3 Apr  | Zach         |                        | Inservice for Junior High     |
-| 10 Apr | Ann        |                                |                         |
-| 17 Apr | Grace        | Special?                       | Inservice for High School         |
+| 27 Mar | N.S.       |                                |                         |
+| 3 Apr  | Z         |                        | Inservice for Junior High     |
+| 10 Apr | A        |                                |                         |
+| 17 Apr | G        | Special?                       | Inservice for High School         |
 | 24 Apr | Guest       |                                |                         |
-| 1 May  | Mike       |                                |                         |
-| 8 May  | Zach |                                |                         |
+| 1 May  | M       |                                |                         |
+| 8 May  | Z |                                |                         |
 | 15 May |          |                                |                         |
 | 22 May |            |                                |                         |
-| 29 May |             |                                | ONECON (31 May - 1 Jun) |
+| 29 May | M.A         |                                | ONECON (31 May - 1 Jun) |
 | 5 Jun  |             |                                |                         |
 | 12 Jun |             |                                |                         |
 | 19 Jun |             | Firepit/Watergun Party?        |                         |
